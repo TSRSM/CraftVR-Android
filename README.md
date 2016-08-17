@@ -1,7 +1,8 @@
 # CraftVR-Android
 CraftVR android app by Rishabh Minocha and Dhruv Yadav.
 
-Version Information
+# Version Information
+
 Status: Stable
 
 Current Stable Version: 1.2
