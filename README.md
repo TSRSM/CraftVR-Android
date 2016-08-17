@@ -3,13 +3,13 @@ CraftVR android app by Rishabh Minocha and Dhruv Yadav.
 
 ## Version Information
 
-*Status:* Stable
+**Status:** Stable
 
-*Current Stable Version:* 1.2
+**Current Stable Version:** 1.2
 
-*Stable Release Date:* 2016-08-17
+**Stable Release Date:** 2016-08-17
 
-*Update Status:* Current Repo not updated. Updated version available.
+**Update Status:** Current Repo not updated. Updated version available.
 
 
 License
